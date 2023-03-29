@@ -16,6 +16,7 @@
 		91DE075D29D33670003C495D /* LocationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91DE075C29D33670003C495D /* LocationsView.swift */; };
 		91DE075F29D33681003C495D /* LocationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91DE075E29D33681003C495D /* LocationViewModel.swift */; };
 		91DE076129D33DEB003C495D /* LocationsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91DE076029D33DEB003C495D /* LocationsListView.swift */; };
+		91DE076329D4C70E003C495D /* LocationPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91DE076229D4C70E003C495D /* LocationPreviewView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		91DE075C29D33670003C495D /* LocationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsView.swift; sourceTree = "<group>"; };
 		91DE075E29D33681003C495D /* LocationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationViewModel.swift; sourceTree = "<group>"; };
 		91DE076029D33DEB003C495D /* LocationsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsListView.swift; sourceTree = "<group>"; };
+		91DE076229D4C70E003C495D /* LocationPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationPreviewView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 			children = (
 				91DE075C29D33670003C495D /* LocationsView.swift */,
 				91DE076029D33DEB003C495D /* LocationsListView.swift */,
+				91DE076229D4C70E003C495D /* LocationPreviewView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 			files = (
 				91DE075B29D33361003C495D /* LocationsDataService.swift in Sources */,
 				91DE076129D33DEB003C495D /* LocationsListView.swift in Sources */,
+				91DE076329D4C70E003C495D /* LocationPreviewView.swift in Sources */,
 				91DE075F29D33681003C495D /* LocationViewModel.swift in Sources */,
 				91DE074929D331BF003C495D /* ContentView.swift in Sources */,
 				91DE075D29D33670003C495D /* LocationsView.swift in Sources */,
