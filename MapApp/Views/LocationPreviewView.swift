@@ -85,6 +85,7 @@ extension LocationPreviewView {
 struct LocationPreviewView_Previews: PreviewProvider {
     static var previews: some View {
         LocationPreviewView(location: LocationsDataService.locations.first!)
+            .environmentObject(LocationViewModel())
     }
 }
 
